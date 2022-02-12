@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "350070052693",
+    "project_id": "proyectocazarpatos-c8001",
+    "storage_bucket": "proyectocazarpatos-c8001.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:350070052693:android:15438ad0f33c77468941dc",
+        "android_client_info": {
+          "package_name": "com.aguirredavid.cazarpatos"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "350070052693-kd5o7frsism9glkatu0vgdrgtuii3g4e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAs_7syHH_MHZ48Df6P-9cVglpYMGDD-n8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "350070052693-kd5o7frsism9glkatu0vgdrgtuii3g4e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:350070052693:android:013406e1fed3d3498941dc",
+        "android_client_info": {
+          "package_name": "com.aguirredavid.picassoapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "350070052693-kd5o7frsism9glkatu0vgdrgtuii3g4e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAs_7syHH_MHZ48Df6P-9cVglpYMGDD-n8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "350070052693-kd5o7frsism9glkatu0vgdrgtuii3g4e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
